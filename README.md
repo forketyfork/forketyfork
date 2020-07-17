@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sergei
+![Coffee Coffee Coffee](https://cdn.pixabay.com/photo/2016/04/12/11/19/coffee-1324126_1280.jpg)
 
 I'm a technical project lead @ [CRX Markets](https://www.crxmarkets.com). I'm most proficient in Java, Scala and JavaScript. But I also like to try something new once in a while.
 
