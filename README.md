@@ -4,6 +4,6 @@ I'm a developer at [JetBrains](https://www.jetbrains.com), working on [CodeCanva
 
 I write about software development in [my blog](https://forketyfork.github.io).
 
-Follow me on [X/Twitter](https://x.com/forketyfork), Bluesky [@forketyfork.bsky.social](https://bsky.app/profile/forketyfork.bsky.social) or Mastodon [@forketyfork@mastodon.social](https://mastodon.social/@forketyfork)
+Follow me on X/Twitter [@forketyfork](https://x.com/forketyfork), Bluesky [@forketyfork.bsky.social](https://bsky.app/profile/forketyfork.bsky.social) or Mastodon [@forketyfork@mastodon.social](https://mastodon.social/@forketyfork)
 
 The picture is from <a href="https://pixabay.com/de/users/negative-space-2379030/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1324126">Negative-Space</a> on <a href="https://pixabay.com/de//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1324126">Pixabay</a>
